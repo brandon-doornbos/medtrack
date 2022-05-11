@@ -1,0 +1,16 @@
+{
+  "name": "medicine_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "pnpm run build && node ."
+  },
+  "keywords": [],
+  "author": "Brandon Doornbos",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
