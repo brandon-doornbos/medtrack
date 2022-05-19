@@ -4,8 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "pnpm run build && node ."
+    "start": "tsc && node ."
   },
   "keywords": [],
   "author": "Brandon Doornbos",
