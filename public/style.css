@@ -1,0 +1,11 @@
+:root {
+    --background-color: #1c1c1c;
+    --text-color: #eeeeee;
+    --subtext-color: #cccccc;
+    /*duckduckgo colors*/
+}
+
+html {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
